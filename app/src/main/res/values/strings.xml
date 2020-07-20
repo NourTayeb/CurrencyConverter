@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CurrencyConverter CleanArchMVVM</string>
+    <string name="currency_choose">Choose currency</string>
+    <string name="set_Dafult">Set default</string>
+    <string name="filter_hint">Currency name or code</string>
+    <string name="convert">Convert</string>
+    <string name="set_favorite_curr">Set up favorite</string>
+    <string name="set_default_currency">Set your default currency</string>
+    <string name="error_loading_the_data">Error loading the data</string>
+    <string name="error_converting">Error converting currencies</string>
+    <string name="enter_amount">Enter amount!</string>
+    <string name="favorite_empty">Add currencies to your favorite!</string>
+</resources>
